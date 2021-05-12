@@ -61,8 +61,8 @@ html {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 100px 1fr 1fr;
   gap: 10px 10px ;
-  padding-left:20px;
-  padding-right:20px;
+  padding-left:100px;
+  padding-right:100px;
   margin-top: -30px;
   grid-template-areas:
     "headd headd headd logo"
